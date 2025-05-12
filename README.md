@@ -23,13 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video src='https://www.loom.com/share/3fdec06721d246e88bf587f5984d34d9?sid=514c5673-6a21-40b5-b356-c91c144efa79' width='' controls>
-  Your browser does not support the video tag.
-</video>
-
+[Video Walkthrough](https://www.loom.com/share/3fdec06721d246e88bf587f5984d34d9?sid=514c5673-6a21-40b5-b356-c91c144efa79)
 
 Video created with Loom
-
 
 ## License
 
