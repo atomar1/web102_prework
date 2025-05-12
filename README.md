@@ -23,11 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[Video Walkthrough](https://www.loom.com/share/3fdec06721d246e88bf587f5984d34d9?sid=514c5673-6a21-40b5-b356-c91c144efa79)
+<img src='https://i.imgur.com/SDTUZwa.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<div style="position: relative; padding-bottom: 54.270833333333336%; height: 0;"><iframe src="https://www.loom.com/embed/3fdec06721d246e88bf587f5984d34d9?sid=042d75f2-16e4-408a-9ab1-24f73a340e0c" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-Video created with Loom
+GIF created with LiceCap
 
 ## License
 
